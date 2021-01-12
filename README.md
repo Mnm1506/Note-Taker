@@ -32,7 +32,7 @@
    Moussa Nait Merabet
 
   ## Gif :
-  -  ![gif](public\assets\gif\Note-Taker.gif)
+  -  ![gif in public\assets\gif\](public\assets\gif\Note-Taker.gif)
 
   ## Tests :
    No
