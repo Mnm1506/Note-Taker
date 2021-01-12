@@ -1,6 +1,9 @@
   # Note-Taker
  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
+  # Link to deployed app :
+  - https://note-taker-mnm1506.herokuapp.com/
+
   ## Description :
     This is an application that can be used to write, save, and delete notes. This application will use an express    backend and save and retrieve note data from a JSON file.
 
