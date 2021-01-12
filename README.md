@@ -31,6 +31,9 @@
   ## Contributing :
    Moussa Nait Merabet
 
+  ## Gif :
+  -  ![gif](public\assets\gif\Note-Taker.gif)
+
   ## Tests :
    No
    
